@@ -13,6 +13,6 @@ The app is not intended to work on mobile devices.
 
 #### References
 
-Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2016). A multiresolution stochastic process model for predicting basketball possession outcomes. Journal of the American Statistical Association, 111(514), 585-599. [Link](https://arxiv.org/abs/1408.0777)
+Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2016). **A multiresolution stochastic process model for predicting basketball possession outcomes.** Journal of the American Statistical Association, 111(514), 585-599. [Link](https://arxiv.org/abs/1408.0777)
 
 Data: https://github.com/dcervone/EPVDemo
