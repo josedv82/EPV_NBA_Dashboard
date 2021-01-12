@@ -69,7 +69,7 @@ edat1 <- edat %>%
          everything()) %>%
   filter(possID != 0) %>%
   
-  #translate events  
+  #translate events (source https://github.com/howardbaek/nba-animation/blob/master/final-result.Rmd)
   mutate_at(
     vars(one_of('a1_event', 'a2_event', 'a3_event', 'a4_event', 'a5_event', 'h1_event', 'h2_event', 'h3_event', 'h4_event', 'h5_event')),
     funs(case_when(
