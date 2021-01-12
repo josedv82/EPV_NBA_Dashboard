@@ -1,5 +1,5 @@
 # EPV Dashboard
-A minimal app visualize Expected Possession Value (EPV) in the NBA.
+A minimal app to visualize Expected Possession Value (EPV) in the NBA.
 
 ***
 
