@@ -11,6 +11,8 @@ Exploring an idea to visualize and interact with EPV in Basketball resembling a 
 
 ![](anim2.gif)
 
+***
+
 #### References
 
 Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2016). **A multiresolution stochastic process model for predicting basketball possession outcomes.** Journal of the American Statistical Association, 111(514), 585-599. [Link](https://arxiv.org/abs/1408.0777)
