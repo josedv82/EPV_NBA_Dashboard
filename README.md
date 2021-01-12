@@ -9,7 +9,7 @@ Exploring an idea to visualize and interact with EPV in Basketball. The dashboar
 
 *The app is not intended to work on mobile devices.*
 
-![](anim.gif)
+![](anim2.gif)
 
 #### References
 
