@@ -3,7 +3,7 @@ A minimal app to visualize Expected Possession Value (EPV) in the NBA.
 
 ***
 
-Exploring an idea to visualize and interact with EPV in Basketball. The dashboard provides information at a play by play level for a full game as well as the player total EPV added for that game. A dynamic play diagram alongside the EPV can be displayed for all available plays.. 
+Exploring an idea to visualize and interact with EPV in Basketball resembling a stock trading app. The dashboard provides information at a play by play level for a full game as well as the player total EPV added for that game. A dynamic play diagram alongside the EPV can be displayed for all available plays.. 
 
 * Live App: [Link](https://josedv.shinyapps.io/EPV_NBA_Dashboard/)
 
