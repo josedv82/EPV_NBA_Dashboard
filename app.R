@@ -40,8 +40,18 @@ ui <- fluidPage(
     sidebarPanel(width = 2, style = "position:fixed; width:16%",
                  
                 
-                actionButton("info", "Info", icon = icon("info"), style = "border-color: #16a085; color: #16a085"),
+                actionButton("info", "Info", icon = icon("info-circle"), style = "border-color: #16a085; color: #16a085"),
                 actionButton("code", "Code", icon = icon("github"), style = "border-color: #16a085; color: #16a085", onclick ="window.open('https://github.com/josedv82/EPV_dashboard/blob/main/README.md', '_blank')"),
+                actionButton("stat", "Stats", icon = icon("table") ,style = "border-color: #16a085; color: #16a085", onclick ="window.open('https://www.espn.com/nba/matchup?gameId=400488901', '_blank')"),
+                
+                tags$br(),
+                tags$hr(),
+                tags$br(),
+                
+                tags$h6("Miami Heat @ Brooklyn Nets", style = "color:white;"),
+                tags$div(HTML('<i class="fa fa-user-alt" style = "color:#16a085;"></i>   Attendance: 17,332')),
+                tags$div(HTML('<i class="fa fa-calendar-alt" style = "color:#16a085;"></i>   Nov 1st, 2013')),
+                tags$div(HTML('<i class="fa fa-map-marker-alt" style = "color:#16a085;"></i>   Brooklyn, NY')),
                 
                 tags$br(),
                 tags$hr(),
