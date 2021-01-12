@@ -15,7 +15,7 @@ Exploring an idea to visualize and interact with EPV in Basketball. The dashboar
 
 Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2016). **A multiresolution stochastic process model for predicting basketball possession outcomes.** Journal of the American Statistical Association, 111(514), 585-599. [Link](https://arxiv.org/abs/1408.0777)
 
-Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2014). **POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data.**  [Link](http://www.lukebornn.com/papers/cervone_ssac_2014.pdf)
+Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2014). **POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data.** Sloan Sport Analytics Conference. [Link](http://www.lukebornn.com/papers/cervone_ssac_2014.pdf)
 
 #### Data
 
