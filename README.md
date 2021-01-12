@@ -19,4 +19,4 @@ Cervone, D., D’Amour, A., Bornn, L., & Goldsberry, K. (2014). **POINTWISE: Pre
 
 #### Data
 
-The EPV data and code was sourced from https://github.com/dcervone/EPVDemo
+The EPV data was sourced from https://github.com/dcervone/EPVDemo
