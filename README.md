@@ -9,7 +9,7 @@ This is a minimal proof of concept dashboard to interact with EPV in Basketball.
 
 The app is not intended to work on mobile devices.
 
-[](anim.gif)
+![](anim.gif)
 
 #### References
 
