@@ -25,4 +25,5 @@ The EPV data was sourced from https://github.com/dcervone/EPVDemo
 
 ***
 
-```*The app is not intended to work on mobile devices.*``` 
+#### Mobile Devices
+This app is not intended to work on mobile devices and therefore some functionalities may not work on smaller screens.
